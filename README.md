@@ -8,3 +8,11 @@
 ## Entry Point
 - все ноутбуки
 - `ui/🏠_Home_Page.py` (`streamlit run ui/🏠_Home_Page.py`)
+
+## Demo
+
+<img src="pics/1.png"/>
+
+<img src="pics/2.png"/>
+
+<img src="pics/3.png"/>
