@@ -1,0 +1,12 @@
+venv
+__pycache__
+ml/dataset/application
+ml/dataset/arrangement
+ml/dataset/contract
+ml/dataset/custom_dataset
+ml/dataset/order
+ml/dataset/statute
+ml/output_intfloat-multilingual-e5-large-extradata_baseline
+ml/outputai-forever-ruT5-large
+ui/checkpoints/cls_model
+ui/checkpoints/t5_model
